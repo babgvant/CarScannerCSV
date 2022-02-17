@@ -8,7 +8,7 @@ inputfile = ''
 outputfile = ''
 allcols = False
 samplerate = "30s"
-usageText = "test.py -i <inputfile> -o <outputfile> [-a -s <samplerate>]\r\n-a will return all columns in input CSV -s 30s"
+usageText = "FormatCSV.py -i <inputfile> -o <outputfile> [-a -s <samplerate>]\r\n-a will return all columns in input CSV -s 30s"
 
 try:
     opts, args = getopt.getopt(sys.argv[1:], "hai:o:s:")
