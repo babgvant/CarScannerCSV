@@ -1,6 +1,6 @@
 # CarScannerCSV
  
-This script converts/cleans up Car Scanner CSV files.
+This script converts/cleans up Car Scanner CSV files. It is based on the work of Sam (phidauex) from the Mach-E Forums who was nice enough to share his parsing script with me.
 
 Usage:
 
